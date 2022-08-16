@@ -1,5 +1,5 @@
 #%% Gradient Descent with Autograd and Backpropagation with pytorch
-# We implemented logistic regression from scratch in this section. Calculations were made as follows ;
+# We implemented logistic regression from scratch in this section. Calculations were made as follows;
 # -Prediction: Manually
 # -Gradients Computation: Autograd
 # -Loss Computation: Manually
